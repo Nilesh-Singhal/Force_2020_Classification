@@ -1,5 +1,5 @@
 # Force_2020_Classification
-Check out my solution for FORCE 2020 Lithology Classification Contest. The objective of the competition is to create machine learning model to correctly predict lithology labels using provided well logs, provided NPD Lithostratigraphy and well location X,Y position. Contest Link:- https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition/tree/master/lithology_competition
+Check out my solution for FORCE 2020 Lithology Classification Contest. The objective of the competition is to create machine learning model to correctly predict lithology labels using provided well logs, provided NPD Lithostratigraphy and well location X,Y position. Dataset can be accessed from the contest page. Contest Link:- https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition/tree/master/lithology_competition
 
 I have used the following strategy for my solution:-
 
