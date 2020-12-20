@@ -23,7 +23,4 @@ Check out my solution for FORCE 2020 Lithology Classification Contest. I have us
 10. Final Lithology Classification
 
 
-Despiking of the log values has been done by using the threshold available in literature and from the statistical nature of data.
-
-
-Bad holes are flagged by comparing Caliper and Borehole Size log and by Using ensemble modeling for DTC and comparing the predicted DTC with actual log values  to flag bad hole. 
+Despiking of the log values has been done by using the threshold available in literature and from the statistical nature of data. Bad holes are flagged by comparing Caliper and Borehole Size log and by Using ensemble modeling for DTC and comparing the predicted DTC with actual log values  to flag bad hole. 
